@@ -12,5 +12,5 @@ Design the Case
 
 # July 2nd
 -> Decided on the keyboard layout
-![General Keyboard Layout](General-Layout.png)
+![General Keyboard Layout](mini-keyboard/General-Layout.png)
 **Total Time Spend = 1 hour""
