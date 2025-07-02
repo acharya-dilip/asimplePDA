@@ -10,3 +10,7 @@ Make the keyboard sch
 Make the keyboard pcb
 Design the Case
 
+# July 2nd
+-> Decided on the keyboard layout
+![General Keyboard Layout](General-Layout.png)
+**Total Time Spend = 1 hour""
